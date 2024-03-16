@@ -1,0 +1,11 @@
+Admin:-
+admin@gmail.com
+123456
+
+Cashier:-
+cahier@gmail.com
+123456
+
+Manager:-
+manager@gmail.com
+123456
